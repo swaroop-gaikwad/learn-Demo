@@ -4,3 +4,13 @@ This is my first Git Repository
 Author - Swaroop Gaikwad 
 <br>
 Added new line 
+
+<pr>New paragraph <pr>
+
+<pr>ratnakar<pr>
+
+<pr>sainath<pr>
+
+
+
+
